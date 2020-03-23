@@ -2,7 +2,7 @@
 
 <div class="alert alert-success">
     <h1 align="center">Smart Blockchain</h1>
-    <h3 align="center"><a href="http://www.snrazavi.ir">Seyed Naser RAZAVI</a></h3>
+    <h3 align="center"><a href="http://www.snrazavi.ir">Somayyeh Gholami & Mehran Kazeminia</a></h3>
 </div>
 
 
