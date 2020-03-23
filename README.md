@@ -1,4 +1,5 @@
 # Smart-Blockchain
+### By: Somayyeh Gholami & Mehran Kazeminia
 
 ## Introduction
 Ten years ago, Bitcoin’s proof-of-work mechanism was a great
@@ -47,8 +48,6 @@ tasks to assign to miners and block producers.
 <img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/sb903.jpg"> 
 
 
-
-
 Also, Smart Blockchain provides the possibility to classify
 transactions based on subject. For example, it allows trading of
 several types of cryptocurrency in a network consists of
@@ -62,6 +61,7 @@ transactions of such project should be stored and registered by
 the single BPSC and into single Blockchain.
 
 
+<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/sb904.jpg"> 
 
 
 ## What are the benefits of Smart Blockchain?
