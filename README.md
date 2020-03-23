@@ -1,5 +1,5 @@
 # Smart-Blockchain
-### By: Somayyeh Gholami & Mehran Kazeminia
+By: Somayyeh Gholami & Mehran Kazeminia
 
 ## Introduction
 Ten years ago, Bitcoin’s proof-of-work mechanism was a great
@@ -105,7 +105,7 @@ and can compete with the speed of Visa’s transactions.
 
 
 ## What is the use of Smart Blockchain?
-First use: In networks like Ethereum, EOS, etc. which is possible to
+**First use:** In networks like Ethereum, EOS, etc. which is possible to
 register and deploy the smart contracts, simply we can set up a
 dedicated blockchain for each new smart contract. In this way, as
 soon as the new smart contract is launched, a BPSC will be
@@ -117,7 +117,7 @@ independently. Meanwhile, at coding, this BPSC can be coded and
 launched separately, or BPSC codes can be imported into the
 desired smart contract codes.
 
-Second use: For each Ethereum networks, EOS, and etc. that allow
+**Second use:** For each Ethereum networks, EOS, and etc. that allow
 registering and deploying the smart contracts, the whole existing
 Blockchains can be replaced with Smart Blockchain. To do this,
 after launching a dedicated BPSC into the network, the precise
@@ -125,7 +125,7 @@ and final status of all existing wallet is to be made available to the
 BPSC, Also thereafter all the subsequent network transactions will
 be done via BPSC.
 
-Third use: If we want to use Smart Blockchain for networks such
+**Third use:** If we want to use Smart Blockchain for networks such
 as Bitcoin which is not possible to set up any smart contract, we
 should first launch a new decentralized network that allows
 registration and deployment of smart contracts like the Ethereum
