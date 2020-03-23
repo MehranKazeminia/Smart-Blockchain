@@ -1,13 +1,8 @@
-# Smart-Blockchain 
 
 <div class="alert alert-success">
     <h1 align="center">Smart Blockchain</h1>
-    <h3 align="center"><a href="http://www.snrazavi.ir">Somayyeh Gholami & Mehran Kazeminia</a></h3>
+    <h3 align="center"><a href="https://medium.com/@somayyeh_43305">Somayyeh Gholami & Mehran Kazeminia</a></h3>
 </div>
-
-
-
-By: Somayyeh Gholami & Mehran Kazeminia
 
 ## Introduction
 Ten years ago, Bitcoin’s proof-of-work mechanism was a great
