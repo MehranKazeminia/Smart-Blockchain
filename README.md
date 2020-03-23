@@ -1,4 +1,4 @@
-# Smart-Blockchain ### By: Somayyeh Gholami & Mehran Kazeminia
+# Smart-Blockchain **By: Somayyeh Gholami & Mehran Kazeminia**
 
 ## Introduction
 Ten years ago, Bitcoin’s proof-of-work mechanism was a great
