@@ -47,6 +47,110 @@ tasks to assign to miners and block producers.
 
 
 
+Also, Smart Blockchain provides the possibility to classify
+transactions based on subject. For example, it allows trading of
+several types of cryptocurrency in a network consists of
+independent blockchains. This will be done by increasing the
+number of BPSCs in the network. The limitation and also
+important point is that transactions can be assigned to separate
+BPSCs that their subjects are not related to each other. For
+example, if we want a smart contract to give an award for every
+100 LIKEs, so the Likes’ transactions and cryptocurrencies’
+transactions of such project should be stored and registered by
+the single BPSC and into single Blockchain.
+
+
+
+
+## What are the benefits of Smart Blockchain?
+At the moment of transactions occurrence, the correct and
+flawless data of transactions are stored and registered. In this case,
+there is no need to generate some alternatives from a block like
+what they do in Bitcoin network, Ethereum network, etc., and then
+the miners choose the correct and valid block by spending so
+much money, consuming huge power electricity and using a
+variety of proof mechanisms.
+
+Staggering power consumption is the result of the use of the
+proof-of-work mechanism or the proof-of-stake mechanism, or.....
+Which Smart Blockchain does not require any of them at all.
+Unfortunately, the electricity consumption of one single bitcoin’s
+transaction is 200,000 times more than electricity consumption of
+a one single VISA’s transaction. The annual electricity
+consumption used to store and register the entire Bitcoin’s
+transactions is more than 50 terawatts (1 TWh = 3 600 000 000
+000 000 J) that is equal to the annual power consumption of a
+country with ten million populations. The study was published in
+October 2018 on global climate change, which showed that in less
+than three decades, Bitcoin mining could increase global
+temperatures more than 2 degrees Celsius.
+
+Fortunately, Smart Blockchain transactions and regular Visa Card
+transactions won’t differ on power consumption. The data stored
+by the BPSC is flawless because it is registered at the moment of
+the transaction occurrence automatically and without human
+interference. Smart Blockchain simply can end the nightmare of
+spending extra tens TWh electricity.
+
+By using Smart Blockchain, we should no longer be concerned
+about the fees of miners and block producers. BPSCs will
+automatically and freely carry out all the tasks of the miners. Also,
+Smart Blockchain scalability is not comparable to available one
+and can compete with the speed of Visa’s transactions.
+
+
+
+
+
+## What is the use of Smart Blockchain?
+First use: In networks like Ethereum, EOS, etc. which is possible to
+register and deploy the smart contracts, simply we can set up a
+dedicated blockchain for each new smart contract. In this way, as
+soon as the new smart contract is launched, a BPSC will be
+launched, and from the very beginning, all of the transactions of a
+smart contract will be stored and registered into the BPSC’s
+ledger. In this case, the dedicated blockchain will not need any
+data from Ethereum blockchain, EOS, etc., and it will work
+independently. Meanwhile, at coding, this BPSC can be coded and
+launched separately, or BPSC codes can be imported into the
+desired smart contract codes.
+
+Second use: For each Ethereum networks, EOS, and etc. that allow
+registering and deploying the smart contracts, the whole existing
+Blockchains can be replaced with Smart Blockchain. To do this,
+after launching a dedicated BPSC into the network, the precise
+and final status of all existing wallet is to be made available to the
+BPSC, Also thereafter all the subsequent network transactions will
+be done via BPSC.
+
+Third use: If we want to use Smart Blockchain for networks such
+as Bitcoin which is not possible to set up any smart contract, we
+should first launch a new decentralized network that allows
+registration and deployment of smart contracts like the Ethereum
+network. Then, in this new network, we design and activate a
+block producer smart contract BPSC. After assuring of the
+functionality of BPSC on the new network, we must ask all Bitcoin
+owners to get the equivalent of their bitcoin, from the new
+Blockchain’s cryptocurrency, and at the same time, their initial
+bitcoin should be burned. These are done by the BPSC of a
+network, and the BPSC can record the initial balance of any wallet
+in the network and begin its work immediately.
+
+Fourth use: Smart Blockchain can be used to launch entirely new
+blockchain and certainly everything can be designed from scratch.
+Meanwhile, regarding the Smart Blockchain’s features, we might
+soon see one or more non-decentralized global networks that
+include all types of cryptocurrencies and smart contracts with
+independent blockchain.
+
+
+
+
+
+
+
+
+
 
 
 
