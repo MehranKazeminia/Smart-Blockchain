@@ -101,7 +101,7 @@ Smart Blockchain scalability is not comparable to available one
 and can compete with the speed of Visa’s transactions.
 
 
-
+<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/nn110.jpg"> 
 
 
 ## What is the use of Smart Blockchain?
@@ -138,7 +138,7 @@ bitcoin should be burned. These are done by the BPSC of a
 network, and the BPSC can record the initial balance of any wallet
 in the network and begin its work immediately.
 
-Fourth use: Smart Blockchain can be used to launch entirely new
+**Fourth use:** Smart Blockchain can be used to launch entirely new
 blockchain and certainly everything can be designed from scratch.
 Meanwhile, regarding the Smart Blockchain’s features, we might
 soon see one or more non-decentralized global networks that
@@ -146,10 +146,6 @@ include all types of cryptocurrencies and smart contracts with
 independent blockchain.
 
 
-
-
-
-<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/postman_image/postman101.jpg"> 
 
 
 
