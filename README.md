@@ -42,6 +42,8 @@ and flawlessly and then as an accurate and trust financial
 institution, record transactions’ data into a new block and add this
 new block to the end of the blockchain and so there will be no
 tasks to assign to miners and block producers.
+
+
 <img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/sb903.jpg"> 
 
 
