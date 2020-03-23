@@ -154,7 +154,6 @@ independent blockchain.
 
 
 
-
  
 
 https://www.newchains.info/ 
