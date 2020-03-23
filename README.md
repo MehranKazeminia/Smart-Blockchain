@@ -148,7 +148,9 @@ soon see one or more non-decentralized global networks that
 include all types of cryptocurrencies and smart contracts with
 independent blockchain.
 
+## More Information
 
+<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/80022.png"> 
 
 
 
