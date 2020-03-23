@@ -150,16 +150,8 @@ independent blockchain.
 
 ## More Information
 
-<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/80022.png"> 
+### https://www.soliset.com
+### https://www.newchains.info 
 
 
-
-
-
-
- 
-
-https://www.newchains.info/ 
-
-https://hackernoon.com/what-is-smart-blockchain-4b134275e90f
 
