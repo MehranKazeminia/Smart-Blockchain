@@ -1,7 +1,13 @@
 # Smart-Blockchain 
 
+<div class="alert alert-success">
+    <h1 align="center">Lesson 01: Image Classification (Cats vs Dogs)</h1>
+    <h3 align="center"><a href="http://www.snrazavi.ir">Seyed Naser RAZAVI</a></h3>
+</div>
+
+
+
 By: Somayyeh Gholami & Mehran Kazeminia
-________________________________________
 
 ## Introduction
 Ten years ago, Bitcoin’s proof-of-work mechanism was a great
