@@ -147,9 +147,7 @@ independent blockchain.
 
 
 
-<img src="files/MehranKazeminia
-/
-Smart-Blockchain/postman_image/postman101.jpg"> 
+<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/postman_image/postman101.jpg"> 
 
 
 
