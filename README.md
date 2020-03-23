@@ -153,5 +153,11 @@ independent blockchain.
 ### https://www.soliset.com
 ### https://www.newchains.info 
 
+# Building a "Smart Blockchain" in python
+
+<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/bcpy103.jpg">
+
+https://www.soliset.com/python-smart-blockchain
+
 
 
