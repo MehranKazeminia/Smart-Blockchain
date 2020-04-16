@@ -149,10 +149,32 @@ independent blockchain.
 
 ## More Information
 
-### https://www.soliset.com
-### https://www.newchains.info 
+https://www.soliset.com
+https://www.newchains.info 
 
 <img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/bcpy103.jpg">
 
-# Building a "Smart Blockchain" in python
+# Implementing a "Smart Blockchain" with python
+In this article, we are going to implement a simple and plain "smart blockchain" with Python language and compare it with a blockchain. We hope that by doing this, the main concepts and advantages of this technology will be more clearly specified and welcomed by the developers and the blockchain community. A Block Producer Smart Contract (BPSC) exists in a plain "smart blockchain" network. To make a successful transaction in the network, the sender must first transfer the cryptocurrency to the (BPSC) wallet, and immediately the (BPSC) will automatically send the same cryptocurrency to the final recipient's wallet. This seemingly simple task saves accurate and impervious data from all successful transactions in the (BPSC) Smart Contract. The present article was written in April 2020 by Somayeh Gholami and Mehran Kazeminia in two versions in English and Persian.
+
+### Summary and conclusion:
+To simulate the (BPSC) block producer smart contract, we considered a node with a port number 5000 and implemented the following three files:
+
+bpsc101.py This version is not final and cannot be interacted with other nodes.
+
+bpsc102.py This is the final version and all cases have been tested for this version. We tested the transaction request, the mining request, the request to send the last chain for the other nodes, and so on.
+
+bpsc103.py This version is also final, but in this version, we have added a new feature to the previous version. That is, (BPSC) required to create a new block after each transaction and add that block to its chain.
+
+The ports 5001 and 5002 have the representation of other network nodes. To simulate these nodes, we implemented the following two versions:
+
+nodes_v1_5001.py and nodes_v1_5002.py
+This version is according to "Smart Blockchain" technology and final. Although these nodes cannot produce blocks, they can do their transactions through (BPSC) and also receive the last chain from (BPSC).
+
+nodes_v2_5001.py and nodes_v2_5002.py
+This is also final, but in this version, we have added a new feature to the previous version. It means a simple blockchain (To store personal data) has been added to the previous code.
+
+
+
+
 ### https://www.soliset.com/python-smart-blockchain
