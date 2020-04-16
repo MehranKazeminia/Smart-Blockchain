@@ -4,6 +4,8 @@
     <h3 align="center"><a href="https://medium.com/@somayyeh_43305">Somayyeh Gholami & Mehran Kazeminia</a></h3>
 </div>
 
+<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/nn110.jpg"> 
+
 ## Introduction
 Ten years ago, Bitcoin’s proof-of-work mechanism was a great
 idea for a pilot project and the launch of the first decentralized
@@ -102,9 +104,6 @@ about the fees of miners and block producers. BPSCs will
 automatically and freely carry out all the tasks of the miners. Also,
 Smart Blockchain scalability is not comparable to available one
 and can compete with the speed of Visa’s transactions.
-
-
-<img src="https://github.com/MehranKazeminia/Smart-Blockchain/blob/master/smart_blockchain_image/nn110.jpg"> 
 
 
 ## What is the use of Smart Blockchain?
